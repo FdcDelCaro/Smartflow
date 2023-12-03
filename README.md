@@ -63,5 +63,10 @@ Seção dedicada a ensinar aos usuários como interpretar os números do hidrôm
 Este MVP prioriza a funcionalidade básica de registrar leituras, calcular o consumo e fornecer informações úteis ao usuário, como histórico e possíveis alertas de vazamento. Além disso, enfatiza a importância do aspecto educativo, ajudando os usuários a compreenderem melhor seus hábitos de consumo de água e os dados apresentados na fatura.
 
 #Persona 
+![Persona_page-0001](https://github.com/FdcDelCaro/Smartflow/assets/121201811/06d2e188-07a2-4560-849a-d5552039a4dc)
+![Persona_page-0002](https://github.com/FdcDelCaro/Smartflow/assets/121201811/7321facf-86da-49fa-8e47-88222bc6e89e)
+![Persona_page-0003](https://github.com/FdcDelCaro/Smartflow/assets/121201811/496d0c57-361f-4ce0-9aed-5e49cc150638)
 
-[Persona.pdf](https://github.com/FdcDelCaro/Smartflow/files/13539564/Persona.pdf)
+
+
+
