@@ -38,6 +38,9 @@ a desinformação e, consequentemente, a necessidade de  deslocamentos desnecess
 Em suma, a pesquisa para o desenvolvimento do aplicativo SmartFlow justifica-se 
 pela necessidade de facilitar o acompanhamento e compreensão da fatura de água
 
+# Quadro de visão
+![QuadroVisaoProjeto_page-0001](https://github.com/FdcDelCaro/Smartflow/assets/121201811/18ad062f-c179-4281-a4d3-e3c314badbf5)
+
 # MVP
 
 Tela de Configuração Inicial:
@@ -62,8 +65,7 @@ Tutorial e Orientações:
 Seção dedicada a ensinar aos usuários como interpretar os números do hidrômetro, entender a fatura e como usar efetivamente o aplicativo.
 Este MVP prioriza a funcionalidade básica de registrar leituras, calcular o consumo e fornecer informações úteis ao usuário, como histórico e possíveis alertas de vazamento. Além disso, enfatiza a importância do aspecto educativo, ajudando os usuários a compreenderem melhor seus hábitos de consumo de água e os dados apresentados na fatura.
 
-# Quadro de visão
-![QuadroVisaoProjeto_page-0001](https://github.com/FdcDelCaro/Smartflow/assets/121201811/18ad062f-c179-4281-a4d3-e3c314badbf5)
+
 
 
 # Persona 
@@ -75,6 +77,31 @@ Este MVP prioriza a funcionalidade básica de registrar leituras, calcular o con
 # Storybord
 ![storyboard](https://github.com/FdcDelCaro/Smartflow/assets/121201811/359378a9-7a3f-4eb4-97d7-686850d664b1)
 
+# Estudo da Arte
+
+Com base na investigação realizada por Danielle Kadanus e Felipe Del Caro sobre projetos similares ao seu, que visam o controle financeiro do consumo de água através de aplicativos, foi seguida uma metodologia estruturada:
+
+Identificação de Projetos Semelhantes: Iniciaram a pesquisa verificando se existiam outros projetos com propósitos comparáveis ao deles.
+Estabelecimento de Critérios de Inclusão e Exclusão: Definiram critérios para selecionar os estudos apropriados, priorizando artigos em língua portuguesa, focados em aplicativos gratuitos para controle de consumo de água.
+Definição das Informações a serem Extraídas: Determinaram quais dados deveriam ser extraídos dos estudos selecionados para categorizá-los.
+Avaliação dos Estudos Selecionados: Analisaram os estudos encontrados, descartando os que não se encaixavam nos critérios estabelecidos.
+Interpretação dos Resultados: Compreenderam e interpretaram os dados coletados.
+Apresentação da Revisão/Síntese do Conhecimento: Apresentaram a síntese do conhecimento obtido.
+Ao revisarem os estudos, encontraram dois trabalhos relevantes:
+
+"Medidor de Consumo de Água e Energia Residencial com Monitoramento Remoto"
+
+Foco no monitoramento remoto de água e energia usando um Raspberry Pi.
+Não se concentra no reconhecimento facial.
+"Controle de Consumo de Água Baseado em Reconhecimento Facial"
+
+Visa controlar o consumo de água por meio do reconhecimento facial.
+Utiliza essa tecnologia para gerenciar o fluxo de água e promover economia de recursos.
+O projeto de Danielle e Felipe alinha-se com essa pesquisa, concentrando-se no desenvolvimento de um aplicativo para dispositivos Android. O objetivo é simplificar a compreensão do consumo de água, permitindo aos clientes inserir leituras do hidrômetro e calcular automaticamente o consumo.
+
+Embora haja semelhanças com os trabalhos analisados, o projeto deles se destaca por sua abordagem prática. Não apenas fornece informações claras sobre o consumo de água, mas também reduz a desinformação e a necessidade de atendimentos presenciais. Isso responde diretamente ao problema identificado de alto volume de atendimentos devido à falta de compreensão das faturas de água.
+
+O projeto não só promove a conscientização sobre o consumo consciente de água, mas também aprimora a eficiência e a experiência do cliente. Pode simplificar a vida dos usuários, evitando deslocamentos desnecessários e facilitando o acompanhamento do consumo de água. Representa, portanto, uma abordagem prática e inovadora para o problema identificado na pesquisa.
 
 
 
