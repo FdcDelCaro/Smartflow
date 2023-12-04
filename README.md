@@ -134,9 +134,8 @@ Necessidade de Explicação Detalhada: Alguns respondentes expressaram a necessi
 Sugestões de Melhoria Variadas: As sugestões para melhorias do aplicativo foram diversas e podem demandar recursos extras de desenvolvimento e implementação.
 # Persona 
 
-![Persona_page-0001](https://github.com/FdcDelCaro/Smartflow/assets/121201811/06d2e188-07a2-4560-849a-d5552039a4dc)
-![Persona_page-0002](https://github.com/FdcDelCaro/Smartflow/assets/121201811/7321facf-86da-49fa-8e47-88222bc6e89e)
-![Persona_page-0003](https://github.com/FdcDelCaro/Smartflow/assets/121201811/496d0c57-361f-4ce0-9aed-5e49cc150638)
+![1](https://github.com/FdcDelCaro/Smartflow/assets/121201811/bc89c474-89d9-41f0-99fd-5e577e2da03c)
+
 
 # Storybord
 ![storyboard](https://github.com/FdcDelCaro/Smartflow/assets/121201811/359378a9-7a3f-4eb4-97d7-686850d664b1)
