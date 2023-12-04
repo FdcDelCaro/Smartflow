@@ -70,8 +70,6 @@ O projeto não só promove a conscientização sobre o consumo consciente de ág
 
 # MVP
 
-Tela de Configuração Inicial:
-
 Solicitação da leitura anterior do medidor, que pode ser obtida na fatura.
 Instruções claras sobre como encontrar e inserir essa informação.
 Registro da Leitura Atual:
@@ -103,31 +101,37 @@ https://trello.com/invite/b/ReDOOJyF/ATTI154ff3f4630c43b4e196b1f7aab1543107D7CCE
 A pesquisa de identificação e conscientização do problema foi aplicada através de formulário eletrônico (https://forms.gle/frWaNogetFp1rZSL8), distribuído através de grupos de contato no WhatsApp, no período entre 27 de novembro a 02 de dezembro de 2023 e foram coletadas 58 respostas.
 As respostas foram obtidas de clientes da Sanepar e potenciais usuários do aplicativo SmartFlow. A coleta de dados foi realizada de forma online, possivelmente através de e-mails, redes sociais ou plataformas digitais, visando compreender as percepções, necessidades e disposição dos clientes em relação ao controle de consumo de água e a compreensão das faturas.
 
-Ideias e Insights Evidenciados:
+# Ideias e Insights Evidenciados:
 
-Necessidade de Compreensão da Fatura: Uma parcela significativa dos respondentes verifica sua fatura de água mensalmente, porém, uma parte considerável enfrenta dificuldades em compreendê-la.
+# Necessidade de Compreensão da Fatura: 
+Uma parcela significativa dos respondentes verifica sua fatura de água mensalmente, porém, uma parte considerável enfrenta dificuldades em compreendê-la.
 
-Aceitação e Utilidade do SmartFlow: A maioria dos entrevistados expressou interesse e disposição em utilizar o aplicativo SmartFlow para monitorar seu consumo de água, compreender melhor suas faturas e identificar vazamentos ou picos anormais de consumo.
+# Aceitação e Utilidade do SmartFlow: 
+A maioria dos entrevistados expressou interesse e disposição em utilizar o aplicativo SmartFlow para monitorar seu consumo de água, compreender melhor suas faturas e identificar vazamentos ou picos anormais de consumo.
 
-Potencial para Ampliação do Aplicativo: Algumas sugestões de melhoria foram oferecidas, como a expansão do aplicativo para auxiliar condomínios no rateio individualizado dos gastos de água e a inclusão de ferramentas educativas, como simulações de consumo.
+# Potencial para Ampliação do Aplicativo: 
+Algumas sugestões de melhoria foram oferecidas, como a expansão do aplicativo para auxiliar condomínios no rateio individualizado dos gastos de água e a inclusão de ferramentas educativas, como simulações de consumo.
 
-Conscientização Ambiental e Sustentabilidade: A percepção de que o aplicativo poderia contribuir para a conscientização sobre o consumo consciente de água e práticas sustentáveis foi amplamente reconhecida pelos entrevistados.
+# Conscientização Ambiental e Sustentabilidade: 
+A percepção de que o aplicativo poderia contribuir para a conscientização sobre o consumo consciente de água e práticas sustentáveis foi amplamente reconhecida pelos entrevistados.
 
-Relacionamento com os Objetivos de Desenvolvimento Sustentável do Brasil:
+# Relacionamento com os Objetivos de Desenvolvimento Sustentável do Brasil:
 
 O aplicativo SmartFlow está diretamente alinhado com diversos Objetivos de Desenvolvimento Sustentável (ODS) do Brasil, especialmente:
 
-ODS 6: Água Potável e Saneamento: O aplicativo visa promover o uso consciente da água, ajudando os usuários a monitorar e reduzir o consumo, contribuindo para a gestão sustentável dos recursos hídricos.
+# ODS 6: 
+Água Potável e Saneamento: O aplicativo visa promover o uso consciente da água, ajudando os usuários a monitorar e reduzir o consumo, contribuindo para a gestão sustentável dos recursos hídricos.
 
-ODS 11: Cidades e Comunidades Sustentáveis: Ao fornecer uma solução tecnológica que melhora a compreensão das faturas de água e incentiva práticas sustentáveis, o SmartFlow colabora para o desenvolvimento de comunidades mais sustentáveis.
+# ODS 11:
+Cidades e Comunidades Sustentáveis: Ao fornecer uma solução tecnológica que melhora a compreensão das faturas de água e incentiva práticas sustentáveis, o SmartFlow colabora para o desenvolvimento de comunidades mais sustentáveis.
 
-Pontos Positivos Observados:
+# Pontos Positivos Observados:
 
 Alta Aceitação e Interesse: A grande maioria dos entrevistados mostrou interesse em utilizar o aplicativo, destacando sua utilidade para compreensão da fatura e monitoramento do consumo.
 
 Contribuição para a Conscientização: Evidências sugerem que o aplicativo pode efetivamente aumentar a consciência sobre o consumo de água e suas implicações ambientais.
 
-Pontos Negativos Observados:
+# Pontos Negativos Observados:
 
 Necessidade de Explicação Detalhada: Alguns respondentes expressaram a necessidade de uma explicação mais detalhada sobre o funcionamento do aplicativo, indicando possíveis pontos de confusão ou falta de clareza na proposta inicial.
 
