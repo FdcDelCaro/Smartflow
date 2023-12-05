@@ -45,3 +45,8 @@ pela necessidade de facilitar o acompanhamento e compreensão da fatura de água
 
 Referencia:
 https://adelpha-api.mackenzie.br/server/api/core/bitstreams/db91996e-76c9-455f-8ee4-565663e7753e/content
+
+
+# Anexos
+![canvas](https://github.com/FdcDelCaro/Smartflow/assets/121201811/3976e126-c80c-45c9-911d-d9052e8f5b85)
+![quadro_visao](https://github.com/FdcDelCaro/Smartflow/assets/121201811/b676988e-8ce1-4f3e-8f02-e21f7d265808)
