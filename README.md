@@ -2,6 +2,11 @@
 
 ![Imagem do WhatsApp de 2023-12-03 à(s) 12 24 33_52c79111](https://github.com/FdcDelCaro/Smartflow/assets/121201811/64ff74bc-5480-46a1-9b2a-81af7c378f83)
 
+Projeto da disciplica Projeto Interdisciplinar 01, do curso de Gestão da Tecnologia da informação (IFPR-PINHAIS).
+
+Link do nosso protótipo
+https://app.quant-ux.com/#/simulate.html?h=a2aa10al8Vfzdn5GZx77KjPMyXNpyc3aDzwkalsdYgIdaLSL4fyblX7vSShG&log=false&qr=true&live=true
+
 # Equipe
 
 Felipe Del Caro: Desenvolvedor Back-End, Testes 
@@ -37,3 +42,6 @@ a desinformação e, consequentemente, a necessidade de  deslocamentos desnecess
  
 Em suma, a pesquisa para o desenvolvimento do aplicativo SmartFlow justifica-se 
 pela necessidade de facilitar o acompanhamento e compreensão da fatura de água
+
+Referencia:
+https://adelpha-api.mackenzie.br/server/api/core/bitstreams/db91996e-76c9-455f-8ee4-565663e7753e/content
