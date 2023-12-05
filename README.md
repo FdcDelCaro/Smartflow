@@ -141,8 +141,6 @@ Sugestões de Melhoria Variadas: As sugestões para melhorias do aplicativo fora
 ![1](https://github.com/FdcDelCaro/Smartflow/assets/121201811/bc89c474-89d9-41f0-99fd-5e577e2da03c)
 
 
-# Storybord
-![storyboard](https://github.com/FdcDelCaro/Smartflow/assets/121201811/359378a9-7a3f-4eb4-97d7-686850d664b1)
 
 
 
