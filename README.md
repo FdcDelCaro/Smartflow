@@ -14,8 +14,8 @@ https://github.com/FdcDelCaro/saneparprojeto
 
 # Equipe
 
-#Felipe Del Caro: Desenvolvedor Back-End, Testes 
-#Danielle Kadanus: Desenvolvedor Back-End e front-end
+# Felipe Del Caro: Desenvolvedor Back-End, Testes 
+# Danielle Kadanus: Desenvolvedor Back-End e front-end
 
 # Descrição
 
