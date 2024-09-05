@@ -2,4 +2,4 @@
 =================================================================================================================
 Link do nosso slide de apresentação do desenvolvimento do smartflow acima
 
-Projeto Interdiscipliar com os conteudos das aulas 
+Projeto Interdisciplinar com os conteudos das aulas 
