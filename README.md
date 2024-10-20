@@ -89,6 +89,15 @@ Satisfação do cliente: feedback qualitativo e quantitativo sobre a usabilidade
 
 Impacto ambiental: volume de água economizado pela base de usuários em um período determinado.
 
+Relacionamento com os Objetivos de Desenvolvimento Sustentável do Brasil:
+O aplicativo SmartFlow está diretamente alinhado com diversos Objetivos de Desenvolvimento Sustentável (ODS) do Brasil, especialmente:
+
+ODS 6:
+Água Potável e Saneamento: O aplicativo visa promover o uso consciente da água, ajudando os usuários a monitorar e reduzir o consumo, contribuindo para a gestão sustentável dos recursos hídricos.
+
+ODS 11:
+Cidades e Comunidades Sustentáveis: Ao fornecer uma solução tecnológica que melhora a compreensão das faturas de água e incentiva práticas sustentáveis, o SmartFlow colabora para o desenvolvimento de comunidades mais sustentáveis.
+
 
 # 5. Cultura de experimentação
 
